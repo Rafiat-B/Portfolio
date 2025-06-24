@@ -207,7 +207,7 @@ export default function Portfolio() {
                   understand real user needs,8 this now helps me create interfaces that are not only 
                   functional but meaningful.
                     
-                  Whether it's designing appointment booking systems or building ML-driven accessibility 
+                  Whether it’s designing appointment booking systems or building ML-driven accessibility 
                   tools, I love solving real-world problems through code and thoughtful design.
                   Currently, I’m growing my portfolio and always excited to work on projects that make a 
                   positive impact.
@@ -345,7 +345,7 @@ export default function Portfolio() {
         <div className="max-w-4xl mx-auto text-center">
           <div className={`transition-all duration-1000 ${isVisible.contact ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'}`}>
             <h2 className="text-4xl md:text-5xl font-bold mb-8 bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
-              Let's Connect
+              Let’s Connect
             </h2>
             <p className="text-xl text-gray-300 mb-12">
               Have an idea in mind? Let’s bring it to life together!
@@ -402,7 +402,7 @@ export default function Portfolio() {
               </h3>
         
               <p className="text-gray-300 mb-6 leading-relaxed">
-                Due to the Non-Disclosure Agreement signed, you can't access the source code or live demo for this project.
+                Due to the Non-Disclosure Agreement signed, you can’t access the source code or live demo for this project.
               </p>
         
               <button
