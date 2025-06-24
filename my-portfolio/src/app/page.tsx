@@ -41,22 +41,6 @@ export default function Portfolio() {
     setIsMenuOpen(false);
   };
 
-  interface Project {
-    title: string;
-    description: string;
-    tech: string[];
-    image: string;
-    github: string;
-    live: string;
-    isNDA?: boolean;
-  }
-
-  interface Skill {
-    name: string;
-    icon: React.ComponentType<React.SVGProps<SVGSVGElement>>;
-    items: string[];
-  }
-
   const handleNDAClick = (e: React.MouseEvent<HTMLButtonElement, MouseEvent>) => {
     e.preventDefault();
     setShowNDAPopup(true);
