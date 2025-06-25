@@ -161,7 +161,7 @@ export default function Portfolio() {
               Frontend Developer  
             </p>
             <p className="text-lg mb-12 text-gray-400 max-w-2xl mx-auto">
-              A passionate Front-End Developer turning designs into delightful user experiences. 
+              A passionate Front-End Developer with a Full-stack experience, turning designs into delightful user experiences. 
               Enthusiastic about building accessible and scalable applications that make a difference.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
